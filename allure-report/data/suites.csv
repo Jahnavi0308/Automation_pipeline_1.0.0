@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Test Case 2: Data Driven User Registration","9333","testData","Gradle suite","2026-04-08","passed","2026-04-08","TestCases.HomePage.Automation_002","Gradle test","TestCases.HomePage.Automation_002","testData"
+"","2160","UserSignUp","Gradle suite","2026-04-08","passed","2026-04-08","User Registration Test","User Registration Test","TestCases.HomePage.Automation_001","UserSignUp"
+"Test Case 1: User Registration","27","parseIniFile","Gradle suite","2026-04-08","passed","2026-04-08","User Registration Test","User Registration Test","TestCases.HomePage.Automation_001","parseIniFile"
+"","1151","LoginPageNavigation","Gradle suite","2026-04-08","passed","2026-04-08","User Registration Test","User Registration Test","TestCases.HomePage.Automation_001","LoginPageNavigation"
+"Test Case 2: Data Driven User Registration","40617","testData","Gradle suite","2026-04-08","broken","2026-04-08","TestCases.HomePage.Automation_002","Gradle test","TestCases.HomePage.Automation_002","testData"
+"Test Case 2: Data Driven User Registration","43286","testData","Gradle suite","2026-04-08","broken","2026-04-08","TestCases.HomePage.Automation_002","Gradle test","TestCases.HomePage.Automation_002","testData"
+"","4781","AccountInformation","Gradle suite","2026-04-08","passed","2026-04-08","User Registration Test","User Registration Test","TestCases.HomePage.Automation_001","AccountInformation"
